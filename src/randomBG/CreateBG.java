@@ -72,6 +72,36 @@ public class CreateBG {
 		tal_deficit.shuffle(rnd);
 		tal_equal.shuffle(rnd);
 
+		for(int i=0; i<tal_surplus.size(); i++){
+			int surp_Movie = tal_surplus.get(i);
+			int surp_Movie_size = movie_Degree_all[surp_Movie][1]-movie_Degree_all[surp_Movie][0];
+			int[] randomGet_surpMovie = randomGetMybitSet(adjM_Movie[surp_Movie], rnd, surp_Movie_size);
+			
+			for(int j=0; j<randomGet_surpMovie.length; j++){
+				
+				int movieUser = randomGet_surpMovie[j];
+				
+				
+				
+				int defi_Movie = tal_deficit.get(tal_deficit.size()-1);
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			}
+			
+			
+			
+			
+			
+			
+		}
+		
 		
 		
 		
@@ -101,6 +131,29 @@ public class CreateBG {
 //
 //		}
 
+	}
+	
+	public static int[] randomGetMybitSet(MyBitSet mbs, Random rnd, int difference){
+		
+		int[] infos = mbs.toArray();
+		
+		TIntHashSet hs = new TIntHashSet();
+		
+		for(int i =0; i<difference; i++){
+			
+			int cooridinate = rnd.nextInt(infos.length);
+			
+			hs.add(infos[cooridinate]);
+			
+		}
+		
+		while(hs.size() < difference){
+			int cooridinate = rnd.nextInt(infos.length);
+			hs.add(infos[cooridinate]);
+		}
+		
+		
+		return hs.toArray();
 	}
 
 	public static int randomGetMybitSet(MyBitSet mbs, Random rnd) {
