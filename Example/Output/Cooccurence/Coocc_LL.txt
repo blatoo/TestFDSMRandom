@@ -1,0 +1,31 @@
+#measure = Cooccurrence, type = local list,
+#primaryId = 0, numberOfFriends = 5
+3,3
+1,2
+2,1
+4,1
+5,1
+#primaryId = 1, numberOfFriends = 5
+4,5
+0,2
+2,2
+3,1
+5,1
+#primaryId = 2, numberOfFriends = 4
+4,3
+1,2
+0,1
+5,1
+#primaryId = 3, numberOfFriends = 2
+0,3
+1,1
+#primaryId = 4, numberOfFriends = 4
+1,5
+2,3
+5,2
+0,1
+#primaryId = 5, numberOfFriends = 4
+4,2
+0,1
+1,1
+2,1

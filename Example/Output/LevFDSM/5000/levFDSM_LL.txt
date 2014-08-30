@@ -1,0 +1,21 @@
+#measure = levFDSM, type = local list,
+#primaryId = 0, numberOfFriends = 2
+3,1.8682
+5,0.2066
+#primaryId = 1, numberOfFriends = 2
+4,1.111
+2,0.4196
+#primaryId = 2, numberOfFriends = 3
+4,1.1154
+1,0.4196
+5,0.3662
+#primaryId = 3, numberOfFriends = 1
+0,1.8682
+#primaryId = 4, numberOfFriends = 3
+2,1.1154
+1,1.111
+5,0.7252
+#primaryId = 5, numberOfFriends = 3
+4,0.7252
+2,0.3662
+0,0.2066

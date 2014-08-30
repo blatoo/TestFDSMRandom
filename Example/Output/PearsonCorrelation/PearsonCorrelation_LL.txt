@@ -1,0 +1,31 @@
+#measure = Pearson Correlation, type = local list,
+#primaryId = 0, numberOfFriends = 5
+3,802
+5,102
+2,-89
+1,-167
+4,-802
+#primaryId = 1, numberOfFriends = 5
+4,356
+2,89
+5,-102
+0,-167
+3,-356
+#primaryId = 2, numberOfFriends = 4
+4,429
+5,218
+1,89
+0,-89
+#primaryId = 3, numberOfFriends = 2
+0,802
+1,-356
+#primaryId = 4, numberOfFriends = 4
+2,429
+1,356
+5,327
+0,-802
+#primaryId = 5, numberOfFriends = 4
+4,327
+2,218
+0,102
+1,-102

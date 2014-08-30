@@ -1,0 +1,31 @@
+#measure = Consine, type = local list,
+#primaryId = 0, numberOfFriends = 5
+3,866
+1,408
+5,354
+2,289
+4,189
+#primaryId = 1, numberOfFriends = 5
+4,772
+2,471
+0,408
+5,289
+3,236
+#primaryId = 2, numberOfFriends = 4
+4,655
+1,471
+5,408
+0,289
+#primaryId = 3, numberOfFriends = 2
+0,866
+1,236
+#primaryId = 4, numberOfFriends = 4
+1,772
+2,655
+5,535
+0,189
+#primaryId = 5, numberOfFriends = 4
+4,535
+2,408
+0,354
+1,289

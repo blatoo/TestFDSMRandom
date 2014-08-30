@@ -1,0 +1,37 @@
+#measure = PValue, type = loal list,
+#primaryId = 0, numberOfFriends = 5
+3,0.0172
+5,0.6844
+1,0.7878
+2,0.846
+4,1.0
+#primaryId = 1, numberOfFriends = 5
+4,0.178
+2,0.5458
+0,0.7878
+5,0.8356
+3,0.9556
+#primaryId = 2, numberOfFriends = 5
+4,0.1772
+1,0.5458
+5,0.5754
+0,0.846
+3,1.0
+#primaryId = 3, numberOfFriends = 5
+0,0.0172
+1,0.9556
+2,1.0
+4,1.0
+5,1.0
+#primaryId = 4, numberOfFriends = 5
+2,0.1772
+1,0.178
+5,0.3658
+0,1.0
+3,1.0
+#primaryId = 5, numberOfFriends = 5
+4,0.3658
+2,0.5754
+0,0.6844
+1,0.8356
+3,1.0

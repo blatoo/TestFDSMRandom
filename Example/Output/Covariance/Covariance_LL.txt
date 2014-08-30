@@ -1,0 +1,31 @@
+#measure = Covariance, type = local list,
+#primaryId = 0, numberOfFriends = 5
+3,180
+5,20
+2,-20
+1,-40
+4,-180
+#primaryId = 1, numberOfFriends = 5
+4,80
+2,20
+5,-20
+0,-40
+3,-80
+#primaryId = 2, numberOfFriends = 4
+4,90
+5,40
+1,20
+0,-20
+#primaryId = 3, numberOfFriends = 2
+0,180
+1,-80
+#primaryId = 4, numberOfFriends = 4
+2,90
+1,80
+5,60
+0,-180
+#primaryId = 5, numberOfFriends = 4
+4,60
+2,40
+0,20
+1,-20

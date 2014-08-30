@@ -713,6 +713,16 @@ public class BipartiteGraph {
 		return degrees;
 
 	}
+	
+	public static int[] get_degree(MyBitSet[] adjM){
+		int[] degree = new int[adjM.length];
+		for(int i=0; i<adjM.length; i++){
+			degree[i] = adjM[i].cardinality();
+		}
+		
+		
+		return degree;
+	}
 
 	public static void main(String[] args) {
 

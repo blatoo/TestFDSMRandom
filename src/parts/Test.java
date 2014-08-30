@@ -47,16 +47,19 @@ public class Test {
 		}
 
 	}
+	
+
 
 	public static void main(String[] args) {
 
-		String inputFile = Setting.outputRoot + File.separator
-				+ "Netflix_Dataset_Good_1k_converted";
-
-		String outputFile = inputFile.replace("_converted", "_coocc");
-
-		writeCoocc(inputFile, outputFile);
-
+//		String inputFile = Setting.outputRoot + File.separator
+//				+ "Netflix_Dataset_Good_1k_converted";
+//
+//		String outputFile = inputFile.replace("_converted", "_coocc");
+//
+//		writeCoocc(inputFile, outputFile);
+		
+		
 	}
 
 }
